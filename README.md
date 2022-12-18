@@ -25,7 +25,7 @@
 
 <p align="justify">
 Projeto focado no CSS para mostrar todos os conjunto de marcadores coloridos que podem ser utilizados nas páginas web, podendo assim utilizar 
-maneiras diferentes de definir valores de cores e combinar cores uma com as outras. Também empreguei caixas de sombras e do linear gradientes neste projeto.
+maneiras diferentes de definir valores de cores e combinar cores umas com as outras. Também empreguei caixas de sombras e do linear gradientes neste projeto.
 
 </p>
 
