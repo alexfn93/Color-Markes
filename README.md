@@ -12,7 +12,7 @@
 
 
 </div>
-> Status do Projeto: :heavy_check_mark: :warning: Concluído
+> Status do Projeto: :heavy_check_mark: Concluído
 
 ### Tópicos 
 
@@ -31,7 +31,7 @@ maneiras diferentes de definir valores de cores e combinar cores umas com as out
 
 ## Funcionalidades
 
-:heavy_check_mark: Esse projeto concentrou-se na utilização do CSS com marcadores de cores. 
+Esse projeto concentrou-se na utilização do CSS com marcadores de cores. 
 O CSS suporta mais de 140 nomes de cores (blue, black, red...), valores hexadecimais (#0000FF), valores de RGB (255,255,255), valores de HSL (240, 100%, 50%),
 valores de HSLA (223,59%,31%,0.8).
 
